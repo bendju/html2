@@ -1,0 +1,75 @@
+﻿body {
+	font-size: 11pt;
+	background-image: url(hatterkep.jpg);
+	margin: 0px;
+	padding: 0px;
+	color: #00008b;
+}
+
+p{
+	
+}
+
+p.bev{
+	font-size: small;
+	font-style: italic;
+}
+
+
+hr {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h1, h2 {
+	
+	padding: 5px;
+	color: #dc143c ;
+	
+}
+
+h2 {
+	font-size: 17px;
+}
+
+#tartalom {
+	
+	margin: 0 auto 0 auto;
+	text-align: left;
+	
+}
+
+#oszlop1, #oszlop2, #oszlop3 {
+    float: left;
+    padding: 0px;
+    width: 310px;
+   	
+}
+
+.kep {
+	width: 240px;
+	border: 0;
+	margin-left: 30px;
+}
+
+a:link {
+	
+}
+
+#lablec {
+    clear: both;
+    
+}
+a{
+	color: #dc143c;
+}
+#fo{
+	margin-right: auto;
+	margin-left: auto;
+	border: 0;
+	background-color: #f0f8ff ;
+	width: 930px;
+
+}
+
